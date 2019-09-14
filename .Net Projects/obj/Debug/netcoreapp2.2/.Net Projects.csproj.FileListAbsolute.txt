@@ -1,0 +1,11 @@
+C:\Users\bulle\Desktop\.Net Projects\bin\Debug\netcoreapp2.2\.Net Projects.deps.json
+C:\Users\bulle\Desktop\.Net Projects\bin\Debug\netcoreapp2.2\.Net Projects.runtimeconfig.json
+C:\Users\bulle\Desktop\.Net Projects\bin\Debug\netcoreapp2.2\.Net Projects.runtimeconfig.dev.json
+C:\Users\bulle\Desktop\.Net Projects\bin\Debug\netcoreapp2.2\.Net Projects.dll
+C:\Users\bulle\Desktop\.Net Projects\bin\Debug\netcoreapp2.2\.Net Projects.pdb
+C:\Users\bulle\Desktop\.Net Projects\obj\Debug\netcoreapp2.2\.Net Projects.csprojAssemblyReference.cache
+C:\Users\bulle\Desktop\.Net Projects\obj\Debug\netcoreapp2.2\.Net Projects.csproj.CoreCompileInputs.cache
+C:\Users\bulle\Desktop\.Net Projects\obj\Debug\netcoreapp2.2\.Net Projects.AssemblyInfoInputs.cache
+C:\Users\bulle\Desktop\.Net Projects\obj\Debug\netcoreapp2.2\.Net Projects.AssemblyInfo.cs
+C:\Users\bulle\Desktop\.Net Projects\obj\Debug\netcoreapp2.2\.Net Projects.dll
+C:\Users\bulle\Desktop\.Net Projects\obj\Debug\netcoreapp2.2\.Net Projects.pdb
