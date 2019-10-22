@@ -15,12 +15,13 @@ namespace Loops
 
     }
     static void myLoop(int x)
-    {
-        while(1 > x) {
-            Console.Write("loop value is {0}", x);
-
-            x++;
+        {
+            while(x < 10)
+            {
+                Console.WriteLine("Hello {0}", x);
+                x++;
             }
+      
         }
     }
 }
