@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bulle\\Desktop\\Loops\\Loops.csproj": {}
+    "C:\\Users\\bulle\\fun-testing\\Loops\\Loops.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bulle\\Desktop\\Loops\\Loops.csproj": {
+    "C:\\Users\\bulle\\fun-testing\\Loops\\Loops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bulle\\Desktop\\Loops\\Loops.csproj",
+        "projectUniqueName": "C:\\Users\\bulle\\fun-testing\\Loops\\Loops.csproj",
         "projectName": "Loops",
-        "projectPath": "C:\\Users\\bulle\\Desktop\\Loops\\Loops.csproj",
+        "projectPath": "C:\\Users\\bulle\\fun-testing\\Loops\\Loops.csproj",
         "packagesPath": "C:\\Users\\bulle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bulle\\Desktop\\Loops\\obj\\",
+        "outputPath": "C:\\Users\\bulle\\fun-testing\\Loops\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

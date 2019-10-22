@@ -9,3 +9,14 @@ C:\Users\bulle\Desktop\Loops\bin\Debug\netcoreapp2.2\Loops.dll
 C:\Users\bulle\Desktop\Loops\bin\Debug\netcoreapp2.2\Loops.pdb
 C:\Users\bulle\Desktop\Loops\obj\Debug\netcoreapp2.2\Loops.dll
 C:\Users\bulle\Desktop\Loops\obj\Debug\netcoreapp2.2\Loops.pdb
+C:\Users\bulle\fun-testing\Loops\bin\Debug\netcoreapp2.2\Loops.deps.json
+C:\Users\bulle\fun-testing\Loops\bin\Debug\netcoreapp2.2\Loops.runtimeconfig.json
+C:\Users\bulle\fun-testing\Loops\bin\Debug\netcoreapp2.2\Loops.runtimeconfig.dev.json
+C:\Users\bulle\fun-testing\Loops\bin\Debug\netcoreapp2.2\Loops.dll
+C:\Users\bulle\fun-testing\Loops\bin\Debug\netcoreapp2.2\Loops.pdb
+C:\Users\bulle\fun-testing\Loops\obj\Debug\netcoreapp2.2\Loops.csprojAssemblyReference.cache
+C:\Users\bulle\fun-testing\Loops\obj\Debug\netcoreapp2.2\Loops.csproj.CoreCompileInputs.cache
+C:\Users\bulle\fun-testing\Loops\obj\Debug\netcoreapp2.2\Loops.AssemblyInfoInputs.cache
+C:\Users\bulle\fun-testing\Loops\obj\Debug\netcoreapp2.2\Loops.AssemblyInfo.cs
+C:\Users\bulle\fun-testing\Loops\obj\Debug\netcoreapp2.2\Loops.dll
+C:\Users\bulle\fun-testing\Loops\obj\Debug\netcoreapp2.2\Loops.pdb

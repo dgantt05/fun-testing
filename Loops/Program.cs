@@ -6,14 +6,21 @@ namespace Loops
     {
     public static void Main(string[] args)
     {
-        int i = 0;
+    string i;
 
-        while(i < 10)
-        {
-            Console.WriteLine("i's value is {0}", i);
+    Console.WriteLine("Enter a int value to loop");
+    i = Console.ReadLine();       
 
-            i++;
-        }
+    myLoop(Convert.ToInt32(i));
+
     }
+    static void myLoop(int x)
+    {
+        while(1 > x) {
+            Console.Write("loop value is {0}", x);
+
+            x++;
+            }
+        }
     }
 }
