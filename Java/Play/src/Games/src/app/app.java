@@ -1,10 +1,12 @@
 package app;
+
 import java.util.Scanner;
 
-public class Play {    
+
+public class app {    
    
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] argsStrings) {
         System.out.println("Let's figure out what to play!");
         System.out.println("How many people are going to play? ");
         
@@ -19,10 +21,10 @@ public class Play {
             System.out.println("you might need to split up into smaller groups to game");
         } else {
             if(number == 5) {
-                System.out.println("League of Legends, CS:GO, Dead by Daylight in-house, Tekken, NBA 2K19, ARAM");
+                System.out.println("League of Legends, CS:GO, Dead by Daylight in-house, Tekken, NBA 2K19, ARAM, Rainbow 6");
             } else {
                 if(number == 4) {
-                    System.out.println("Tekken, Dead by Daylight, NBA 2K19, Deep Rock Galactic, Monster Hunter Worlds");
+                    System.out.println("Tekken, Dead by Daylight, NBA 2K19, Deep Rock Galactic, Monster Hunter Worlds, Rainbow 6");
                 }
             } 
         } 
